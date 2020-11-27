@@ -1,6 +1,3 @@
- * @date 2020-07-16
-     * @returns {any}
-     */
     footFish: function () {
       $("#footer-wrap").css({
         position: "absolute",
