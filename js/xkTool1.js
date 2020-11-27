@@ -1,5 +1,3 @@
-var xiaokang = new xkTool(param1,param2);
-var xiaokang = new xkTool();
 var xiaokang = new xkTool(
     "https://cdn.jsdelivr.net/gh/yuqiblog/cdn@v1.0/img/beijing.jpg"
   );
